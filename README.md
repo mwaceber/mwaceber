@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Mwaceber 👋
+## Aspiring Remote AI & Data Scientist | Python Builder from Tanzania  
 
-<!--
-**mwaceber/mwaceber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Turning data into impact - one practical project at a time.
+### Self-taught through online courses, hands-on books & real-world Python projects.
+### Currently building production-ready ML tools and GenAI apps for clients & remote teams.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Building Right Now
+- **End-to-end ML projects** with scikit-learn (prediction, classification, sentiment analysis)
+- **Interactive web apps** deployed with Streamlit (live demos for clients)
+- **Generative AI tools** using LangChain & prompt engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Projects
+
+
+### 💼 Open To Opportunities
+- **Remote Full-time AI/Data Scientist roles** (Junior / Entry-level)
+- **Freelance gigs** on Upwork and Fiverr (data analysis, ML models, AI Automation)
+- **Collaborations** - happy to contribute to open-source or build tools for business
+
+Based in Tanzania - available in EAT timezone and fully remote-ready.
+
+**Let's connect!** Whether you're a recruiter, startup, or fellow builder - drop a message. I'm active looking for remote roles or client projects
