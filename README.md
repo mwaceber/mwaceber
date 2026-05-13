@@ -11,6 +11,11 @@
 - **Generative AI tools** using LangChain & prompt engineering
 
 ### 🔥 Featured Projects
+- **Customer Churn Predictor**
+- **Customer Segmentation Model**
+- **Pricing Insights Tool**
+- **Demand Forecasting Model**
+- **Sales Forecasting Model**
 
 
 ### 💼 Open To Opportunities
